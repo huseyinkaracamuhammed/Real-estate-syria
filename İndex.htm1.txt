@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>سوق العقارات في سوريا</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      background-color: #2e8b57;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+    .property {
+      background: white;
+      padding: 15px;
+      margin: 15px 0;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+    }
+    .property h3 {
+      margin: 0 0 10px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>بيع وشراء العقارات في سوريا</h1>
+  </header>
+
+  <section class="property">
+    <h3>شقة للبيع في دمشق - المزة</h3>
+    <p>3 غرف نوم، 2 حمام، مساحة 120م²، السعر: 150,000$</p>
+  </section>
+
+  <section class="property">
+    <h3>أرض زراعية في حلب</h3>
+    <p>مساحة 5000م²، مزروعة زيتون، السعر: 50,000$</p>
+  </section>
+
+  <footer>
+    &copy; 2025 سوق العقارات السورية
+  </footer>
+
+</body>
+</html>
